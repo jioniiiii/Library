@@ -1,5 +1,5 @@
 #Library
-    -fix form placement and styles
-    -add display for the books that are added 
-    -try out animations for closing the form and opening it
-    -make button display none when form is open (with animation)
+    -FIX THE DISPLAY FUNCTION and style cards
+    -make background color pop up better
+    -error handling when numbers are inputed
+    -fix border on form
