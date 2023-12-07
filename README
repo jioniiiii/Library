@@ -1,5 +1,4 @@
 #Library
-    -FIX THE DISPLAY FUNCTION and style cards
-    -make background color pop up better
     -error handling when numbers are inputed
-    -fix border on form
+    -add cards with animation
+    -background when form pop up animation
