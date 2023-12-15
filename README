@@ -1,7 +1,8 @@
-#Library
+# Library
     -A basic book library 
-#For future 
+# For future 
     -error handling when numbers are inputed
+    -error handling so that you cant add the same book
     -add cards with animation
     -background when form pop up animation
     -add storage
