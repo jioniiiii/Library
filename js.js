@@ -1,13 +1,9 @@
 const form = document.querySelector(".cont-form");
 const overlay = document.querySelector(".overlay");
 let cards = document.querySelector(".cards");
-overlay.addEventListener("click", () => {
-  closeForm();
-});
+overlay.addEventListener("click", () => {closeForm();});
 const addBookBtn = document.querySelector(".btn");
-addBookBtn.addEventListener("click", () => {
-  library.addBookToLibrary();
-});
+addBookBtn.addEventListener("click", () => {library.addBookToLibrary();});
 
 //declare the Book class first
 class Book {
